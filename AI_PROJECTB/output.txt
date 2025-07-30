@@ -1,0 +1,1317 @@
+Testing: I am playing as RED
+Testing: I am playing as BLUE
+[DEBUG] Chosen MOVE: MOVE(0-6, [[↙]])
+[WARNING] Tried to remove lilypad at start 0-6, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-5
+[MOVE UPDATE] RED moved from 0-6 to 1-5
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * * R * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * * * * * * .
+7   * B B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 0-6, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-5
+[MOVE UPDATE] RED moved from 0-6 to 1-5
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * * R * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * * * * * * .
+7   * B B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(7-1, [[↗]])
+[WARNING] Tried to remove lilypad at start 7-1, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-2
+[MOVE UPDATE] BLUE moved from 7-1 to 6-2
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * * R * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * B * * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 7-1, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-2
+[MOVE UPDATE] BLUE moved from 7-1 to 6-2
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * * R * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * B * * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(1-5, [[←]])
+[WARNING] Tried to remove lilypad at start 1-5, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-4
+[MOVE UPDATE] RED moved from 1-5 to 1-4
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * B * * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 1-5, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-4
+[MOVE UPDATE] RED moved from 1-5 to 1-4
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * B * * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(6-2, [[→]])
+[WARNING] Tried to remove lilypad at start 6-2, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-3
+[MOVE UPDATE] BLUE moved from 6-2 to 6-3
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 6-2, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-3
+[MOVE UPDATE] BLUE moved from 6-2 to 6-3
+=== INTERNAL GAME BOARD ===
+0   * R R R R R . *
+1   . * * * R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(0-2, [[↘]])
+[WARNING] Tried to remove lilypad at start 0-2, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-3
+[MOVE UPDATE] RED moved from 0-2 to 1-3
+=== INTERNAL GAME BOARD ===
+0   * R . R R R . *
+1   . * * R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 0-2, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-3
+[MOVE UPDATE] RED moved from 0-2 to 1-3
+=== INTERNAL GAME BOARD ===
+0   * R . R R R . *
+1   . * * R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B * * * .
+7   * . B B B B B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(7-5, [[↖]])
+[WARNING] Tried to remove lilypad at start 7-5, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-4
+[MOVE UPDATE] BLUE moved from 7-5 to 6-4
+=== INTERNAL GAME BOARD ===
+0   * R . R R R . *
+1   . * * R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B * * .
+7   * . B B B . B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 7-5, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-4
+[MOVE UPDATE] BLUE moved from 7-5 to 6-4
+=== INTERNAL GAME BOARD ===
+0   * R . R R R . *
+1   . * * R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B * * .
+7   * . B B B . B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(0-1, [[↘]])
+[WARNING] Tried to remove lilypad at start 0-1, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-2
+[MOVE UPDATE] RED moved from 0-1 to 1-2
+=== INTERNAL GAME BOARD ===
+0   * . . R R R . *
+1   . * R R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B * * .
+7   * . B B B . B *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 0-1, but it wasn't found!
+[DEBUG] Removed lilypad at destination 1-2
+[MOVE UPDATE] RED moved from 0-1 to 1-2
+=== INTERNAL GAME BOARD ===
+0   * . . R R R . *
+1   . * R R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B * * .
+7   * . B B B . B *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(7-6, [[↖]])
+[WARNING] Tried to remove lilypad at start 7-6, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-5
+[MOVE UPDATE] BLUE moved from 7-6 to 6-5
+=== INTERNAL GAME BOARD ===
+0   * . . R R R . *
+1   . * R R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B B * .
+7   * . B B B . . *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 7-6, but it wasn't found!
+[DEBUG] Removed lilypad at destination 6-5
+[MOVE UPDATE] BLUE moved from 7-6 to 6-5
+=== INTERNAL GAME BOARD ===
+0   * . . R R R . *
+1   . * R R R . * .
+2   . . . . . . . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B B * .
+7   * . B B B . . *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+[GROW] Added lilypad at 0-1
+[GROW] Added lilypad at 0-2
+[GROW] Added lilypad at 2-1
+[GROW] Added lilypad at 2-2
+[GROW] Added lilypad at 2-3
+[GROW] Added lilypad at 1-5
+[GROW] Added lilypad at 2-4
+[GROW] Added lilypad at 2-5
+[GROW] Added lilypad at 0-6
+=== INTERNAL GAME BOARD ===
+0   * * * R R R * *
+1   . * R R R * * .
+2   . * * * * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B B * .
+7   * . B B B . . *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+[GROW] Added lilypad at 0-1
+[GROW] Added lilypad at 0-2
+[GROW] Added lilypad at 2-1
+[GROW] Added lilypad at 2-2
+[GROW] Added lilypad at 2-3
+[GROW] Added lilypad at 1-5
+[GROW] Added lilypad at 2-4
+[GROW] Added lilypad at 2-5
+[GROW] Added lilypad at 0-6
+=== INTERNAL GAME BOARD ===
+0   * * * R R R * *
+1   . * R R R * * .
+2   . * * * * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . . . . . . .
+6   . * . B B B * .
+7   * . B B B . . *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+[GROW] Added lilypad at 7-5
+[GROW] Added lilypad at 5-4
+[GROW] Added lilypad at 5-5
+[GROW] Added lilypad at 5-6
+[GROW] Added lilypad at 7-6
+[GROW] Added lilypad at 5-3
+[GROW] Added lilypad at 6-2
+[GROW] Added lilypad at 7-1
+[GROW] Added lilypad at 5-2
+=== INTERNAL GAME BOARD ===
+0   * * * R R R * *
+1   . * R R R * * .
+2   . * * * * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * * * * .
+6   . * * B B B * .
+7   * * B B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+[GROW] Added lilypad at 7-5
+[GROW] Added lilypad at 5-4
+[GROW] Added lilypad at 5-5
+[GROW] Added lilypad at 5-6
+[GROW] Added lilypad at 7-6
+[GROW] Added lilypad at 5-3
+[GROW] Added lilypad at 6-2
+[GROW] Added lilypad at 7-1
+[GROW] Added lilypad at 5-2
+=== INTERNAL GAME BOARD ===
+0   * * * R R R * *
+1   . * R R R * * .
+2   . * * * * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * * * * .
+6   . * * B B B * .
+7   * * B B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(0-5, [[↙]])
+*******************************************************************************
+Welcome to Freckers referee version 2025.0.0.
+
+Conduct a game of Freckers between 2 Agent classes.
+
+Run `python -m referee --help` for additional usage information.
+*******************************************************************************
+* referee : all messages printed by referee/wrapper modules begin with *
+* referee : (any other lines of output must be from your Agent class).
+* referee : 
+* referee : wrapping player 1 [agent:Agent] as RED...
+* referee : wrapping player 2 [agent:Agent] as BLUE...
+* referee : running game server...
+* referee : let the game begin!
+* referee : player RED is initialising
+* referee : player BLUE is initialising
+* referee : RED to play (turn 1) ...
+* referee : RED plays action MOVE(0-6, [[↙]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * R R R R R . * 
+* referee :                          . * * * * R * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * * * * * * . 
+* referee :                          * B B B B B B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 2) ...
+* referee : BLUE plays action MOVE(7-1, [[↗]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * R R R R R . * 
+* referee :                          . * * * * R * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * B * * * * . 
+* referee :                          * . B B B B B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 3) ...
+* referee : RED plays action MOVE(1-5, [[←]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * R R R R R . * 
+* referee :                          . * * * R . * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * B * * * * . 
+* referee :                          * . B B B B B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 4) ...
+* referee : BLUE plays action MOVE(6-2, [[→]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * R R R R R . * 
+* referee :                          . * * * R . * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * . B * * * . 
+* referee :                          * . B B B B B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 5) ...
+* referee : RED plays action MOVE(0-2, [[↘]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * R . R R R . * 
+* referee :                          . * * R R . * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * . B * * * . 
+* referee :                          * . B B B B B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 6) ...
+* referee : BLUE plays action MOVE(7-5, [[↖]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * R . R R R . * 
+* referee :                          . * * R R . * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * . B B * * . 
+* referee :                          * . B B B . B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 7) ...
+* referee : RED plays action MOVE(0-1, [[↘]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * . . R R R . * 
+* referee :                          . * R R R . * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * . B B * * . 
+* referee :                          * . B B B . B * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 8) ...
+* referee : BLUE plays action MOVE(7-6, [[↖]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * . . R R R . * 
+* referee :                          . * R R R . * . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * . B B B * . 
+* referee :                          * . B B B . . * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 9) ...
+* referee : RED plays action GROW
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * * R R R * * 
+* referee :                          . * R R R * * . 
+* referee :                          . * * * * * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . * . B B B * . 
+* referee :                          * . B B B . . * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 10) ...
+* referee : BLUE plays action GROW
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * * R R R * * 
+* referee :                          . * R R R * * . 
+* referee :                          . * * * * * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * * * * * . 
+* referee :                          . * * B B B * . 
+* referee :                          * * B B B * * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 11) ...
+* referee : RED plays action MOVE(0-5, [[↙]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * * R R . * * [WARNING] Tried to remove lilypad at start 0-5, but it wasn't found!
+[DEBUG] Removed lilypad at destination 2-3
+[MOVE UPDATE] RED moved from 0-5 to 2-3
+=== INTERNAL GAME BOARD ===
+0   * * * R R . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * * * * .
+6   . * * B B B * .
+7   * * B B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 0-5, but it wasn't found!
+[DEBUG] Removed lilypad at destination 2-3
+[MOVE UPDATE] RED moved from 0-5 to 2-3
+=== INTERNAL GAME BOARD ===
+0   * * * R R . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * * * * .
+6   . * * B B B * .
+7   * * B B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(7-2, [[↗]])
+[WARNING] Tried to remove lilypad at start 7-2, but it wasn't found!
+[DEBUG] Removed lilypad at destination 5-4
+[MOVE UPDATE] BLUE moved from 7-2 to 5-4
+=== INTERNAL GAME BOARD ===
+0   * * * R R . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 7-2, but it wasn't found!
+[DEBUG] Removed lilypad at destination 5-4
+[MOVE UPDATE] BLUE moved from 7-2 to 5-4
+=== INTERNAL GAME BOARD ===
+0   * * * R R . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(0-4, [[←]])
+[WARNING] Tried to remove lilypad at start 0-4, but it wasn't found!
+[DEBUG] Removed lilypad at destination 0-2
+[MOVE UPDATE] RED moved from 0-4 to 0-2
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 0-4, but it wasn't found!
+[DEBUG] Removed lilypad at destination 0-2
+[MOVE UPDATE] RED moved from 0-4 to 0-2
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . B B * * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(7-3, [[→]])
+[WARNING] Tried to remove lilypad at start 7-3, but it wasn't found!
+[DEBUG] Removed lilypad at destination 7-5
+[MOVE UPDATE] BLUE moved from 7-3 to 7-5
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 7-3, but it wasn't found!
+[DEBUG] Removed lilypad at destination 7-5
+[MOVE UPDATE] BLUE moved from 7-3 to 7-5
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R R * * .
+2   . * * R * * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(1-4, [[↓]])
+[WARNING] Tried to remove lilypad at start 1-4, but it wasn't found!
+[DEBUG] Removed lilypad at destination 2-4
+[MOVE UPDATE] RED moved from 1-4 to 2-4
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * * R R * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 1-4, but it wasn't found!
+[DEBUG] Removed lilypad at destination 2-4
+[MOVE UPDATE] RED moved from 1-4 to 2-4
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * * R R * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * * B * * .
+6   . * * B B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(6-3, [[↑]])
+[WARNING] Tried to remove lilypad at start 6-3, but it wasn't found!
+[DEBUG] Removed lilypad at destination 5-3
+[MOVE UPDATE] BLUE moved from 6-3 to 5-3
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * * R R * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * B B * * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 6-3, but it wasn't found!
+[DEBUG] Removed lilypad at destination 5-3
+[MOVE UPDATE] BLUE moved from 6-3 to 5-3
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * * R R * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * B B * * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(2-4, [[←]])
+[WARNING] Tried to remove lilypad at start 2-4, but it wasn't found!
+[DEBUG] Removed lilypad at destination 2-2
+[MOVE UPDATE] RED moved from 2-4 to 2-2
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * R R . * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * B B * * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 2-4, but it wasn't found!
+[DEBUG] Removed lilypad at destination 2-2
+[MOVE UPDATE] RED moved from 2-4 to 2-2
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * R R . * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * B B * * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen MOVE: MOVE(5-3, [[→]])
+[WARNING] Tried to remove lilypad at start 5-3, but it wasn't found!
+[DEBUG] Removed lilypad at destination 5-5
+[MOVE UPDATE] BLUE moved from 5-3 to 5-5
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * R R . * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * . B B * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[WARNING] Tried to remove lilypad at start 5-3, but it wasn't found!
+[DEBUG] Removed lilypad at destination 5-5
+[MOVE UPDATE] BLUE moved from 5-3 to 5-5
+=== INTERNAL GAME BOARD ===
+0   * * R R . . * *
+1   . * R R . * * .
+2   . * R R . * . .
+3   . . . . . . . .
+4   . . . . . . . .
+5   . . * . B B * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+[GROW] Added lilypad at 0-4
+[GROW] Added lilypad at 1-4
+[GROW] Added lilypad at 2-4
+[GROW] Added lilypad at 3-2
+[GROW] Added lilypad at 3-3
+[GROW] Added lilypad at 3-4
+[GROW] Added lilypad at 3-1
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . . . . . .
+5   . . * . B B * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+[GROW] Added lilypad at 0-4
+[GROW] Added lilypad at 1-4
+[GROW] Added lilypad at 2-4
+[GROW] Added lilypad at 3-2
+[GROW] Added lilypad at 3-3
+[GROW] Added lilypad at 3-4
+[GROW] Added lilypad at 3-1
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . . . . . .
+5   . . * . B B * .
+6   . * * . B B * .
+7   * * . . B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+[GROW] Added lilypad at 6-3
+[GROW] Added lilypad at 7-3
+[GROW] Added lilypad at 4-4
+[GROW] Added lilypad at 4-5
+[GROW] Added lilypad at 4-6
+[GROW] Added lilypad at 4-3
+[GROW] Added lilypad at 5-3
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+[GROW] Added lilypad at 6-3
+[GROW] Added lilypad at 7-3
+[GROW] Added lilypad at 4-4
+[GROW] Added lilypad at 4-5
+[GROW] Added lilypad at 4-6
+[GROW] Added lilypad at 4-3
+[GROW] Added lilypad at 5-3
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+
+* referee :                          . * R R R * * . 
+* referee :                          . * * R * * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * * * * * . 
+* referee :                          . * * B B B * . 
+* referee :                          * * B B B * * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 12) ...
+* referee : BLUE plays action MOVE(7-2, [[↗]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * * R R . * * 
+* referee :                          . * R R R * * . 
+* referee :                          . * * R * * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * * B * * . 
+* referee :                          . * * B B B * . 
+* referee :                          * * . B B * * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 13) ...
+* referee : RED plays action MOVE(0-4, [[←]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R . . * * 
+* referee :                          . * R R R * * . 
+* referee :                          . * * R * * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * * B * * . 
+* referee :                          . * * B B B * . 
+* referee :                          * * . B B * * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 14) ...
+* referee : BLUE plays action MOVE(7-3, [[→]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R . . * * 
+* referee :                          . * R R R * * . 
+* referee :                          . * * R * * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * * B * * . 
+* referee :                          . * * B B B * . 
+* referee :                          * * . . B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 15) ...
+* referee : RED plays action MOVE(1-4, [[↓]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R . . * * 
+* referee :                          . * R R . * * . 
+* referee :                          . * * R R * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * * B * * . 
+* referee :                          . * * B B B * . 
+* referee :                          * * . . B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 16) ...
+* referee : BLUE plays action MOVE(6-3, [[↑]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R . . * * 
+* referee :                          . * R R . * * . 
+* referee :                          . * * R R * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * B B * * . 
+* referee :                          . * * . B B * . 
+* referee :                          * * . . B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 17) ...
+* referee : RED plays action MOVE(2-4, [[←]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R . . * * 
+* referee :                          . * R R . * * . 
+* referee :                          . * R R . * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * B B * * . 
+* referee :                          . * * . B B * . 
+* referee :                          * * . . B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 18) ...
+* referee : BLUE plays action MOVE(5-3, [[→]])
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R . . * * 
+* referee :                          . * R R . * * . 
+* referee :                          . * R R . * . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * . B B * . 
+* referee :                          . * * . B B * . 
+* referee :                          * * . . B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 19) ...
+* referee : RED plays action GROW
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R * . * * 
+* referee :                          . * R R * * * . 
+* referee :                          . * R R * * . . 
+* referee :                          . * * * * . . . 
+* referee :                          . . . . . . . . 
+* referee :                          . . * . B B * . 
+* referee :                          . * * . B B * . 
+* referee :                          * * . . B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 20) ...
+* referee : BLUE plays action GROW
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R * . * * 
+* referee :                          . * R R * * * . 
+* referee :                          . * R R * * . . 
+* referee :                          . * * * * . . . 
+* referee :                          . . . * * * * . 
+* referee :                          . . * * B B * . 
+* referee :                          . * * * B B * . 
+* referee :                          * * . * B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : RED to play (turn 21) ...
+* referee : RED plays action GROW
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R * . * * 
+* referee :                          . * R R * * * . 
+* referee :                          . * R R * * . . 
+* referee :                          . * * * * . . . 
+* referee :                          . . . * * * * . 
+* referee :                          . . * * B B * . 
+* referee :                          . * * * B B * . 
+* referee :                          * * . * B B * * 
+* referee : 
+* referee : ==================================================================
+* referee : 
+* referee : BLUE to play (turn 22) ...
+* referee : BLUE plays action GROW
+* referee : 
+* referee : =========================== game board ===========================
+* referee : 
+* referee :                          * * R R * . * * 
+* referee :                          . * R R * * * . 
+* referee :                          . * R R * * . . 
+* referee :                          . * * * * . . . 
+* referee :                          . . . * * * * . 
+* referee :                          . . * * B B * . [UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] BLUE played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[DEBUG] Chosen GROW
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
+[UPDATE] RED played GROW
+=== INTERNAL GAME BOARD ===
+0   * * R R * . * *
+1   . * R R * * * .
+2   . * R R * * . .
+3   . * * * * . . .
+4   . . . * * * * .
+5   . . * * B B * .
+6   . * * * B B * .
+7   * * . * B B * *
+    0 1 2 3 4 5 6 7
+===========================
